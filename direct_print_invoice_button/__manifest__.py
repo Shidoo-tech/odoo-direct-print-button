@@ -6,6 +6,7 @@
     'currency': 'EUR',
     'license': 'OPL-1',
     'author': 'Shidoo-tech',
+    'support': 'alrashidya649@gmail.com',
     'depends': ['account'],
     'data': [
         'views/button_view.xml',
