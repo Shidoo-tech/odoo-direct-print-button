@@ -2,7 +2,7 @@
     'name': 'Direct Print Invoice Button',
     'version': '19.1.500',  
     'category': 'Accounting',
-    'price': 5.00,
+    'price': 10.00,
     'currency': 'EUR',
     'license': 'OPL-1',
     'author': 'Shidoo-tech',
