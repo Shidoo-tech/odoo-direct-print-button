@@ -7,7 +7,7 @@
     'license': 'OPL-1',
     'author': 'Shidoo-tech',
     'support': 'alrashidya649@gmail.com',
-    'depends': ['account'],
+    'depends': ['account', 'mail'],
     'data': [
         'views/button_view.xml',
     ],
