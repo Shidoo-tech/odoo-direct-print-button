@@ -1,6 +1,6 @@
 {
     'name': 'Direct Print Invoice Button',
-    'version': '19.1.500', # ارفع الإصدار لضمان التحديث
+    'version': '19.1.500',  
     'category': 'Accounting',
     'price': 5.00,
     'currency': 'EUR',
@@ -8,10 +8,10 @@
     'author': 'Shidoo-tech',
     'depends': ['account'],
     'data': [
-        'views/button_view.xml', # تأكد أن الاسم يطابق ملف الـ XML تماماً
+        'views/button_view.xml',
     ],
     'images': ['static/description/main_screenshot.png'],
     'installable': True,
     'application': False,
-    'auto_install': False, # إضافة اختيارية لضمان عدم التثبيت التلقائي
+    'auto_install': False, # 
 }
